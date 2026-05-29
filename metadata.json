@@ -1,0 +1,6 @@
+{
+  "name": "QR Code Generator",
+  "description": "High-DPI QR Code Generator with custom branding, logo integration, bulk generation, batch-downloading (ZIP), and print-ready PDF, SVG, and PNG exporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
